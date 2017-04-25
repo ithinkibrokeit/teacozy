@@ -1,3 +1,18 @@
+body{
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+header{
+  display: flex;
+  position: fixed;
+  height: 69px;
+  width: 100%;
+  border-bottom: 1px solid seashell;
+}
 .container{
 
 }
@@ -35,7 +50,7 @@ h4{
 
 h5{
 
-  
+
 }
 
 p{
